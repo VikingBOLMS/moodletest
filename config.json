@@ -10,11 +10,11 @@
         "en": "English",
         "ru": "Русский"
     },
-    "wsservice" : "moodle_mobile_app",
+    "wsservice" : "ibi_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "ibimobile",
     "siteurl": "http://ibi.mba/",
     "multisitesdisplay": "",
     "skipssoconfirmation": true,
