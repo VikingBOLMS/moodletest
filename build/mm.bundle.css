@@ -10544,8 +10544,8 @@ a.button {
 .mm-bglogo {
   background-color: #ff5c00;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  background: -webkit-radial-gradient(#ff6b02, #ff5c00);
+  background: radial-gradient(#ff6b02, #ff5c00);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10595,21 +10595,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #ff6b02;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #ff6b02;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f98012; }
+      background-color: #ff6b02; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
@@ -12215,7 +12215,7 @@ ol.list-with-style, ul.list-with-style {
   background-color: #eeeeee; }
   .mm-recaptcha-modal .bar-header {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #ff6b02;
     background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
     color: #ffffff; }
     .mm-recaptcha-modal .bar-header .title {
@@ -12928,7 +12928,7 @@ mm-course-list-item div.item-icon-left.earlysubmission {
   background-color: #eeeeee; }
   .mm-capture-media-modal .bar-header {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #ff6b02;
     background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
     color: #ffffff; }
     .mm-capture-media-modal .bar-header .title {
@@ -13258,7 +13258,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #ff6b02;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
