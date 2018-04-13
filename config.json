@@ -2,8 +2,8 @@
     "app_id" : "com.autodor.ibimobile",
     "appname": "Эффективный руководитель",
     "desktopappname": "Эффективный руководитель",
-    "versioncode" : "0001",
-    "versionname" : "0.0.1",
+    "versioncode" : "0002",
+    "versionname" : "0.0.2",
     "cache_expiration_time" : 1,
     "default_lang" : "ru",
     "languages": {
