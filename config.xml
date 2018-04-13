@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.autodor.ibimobile"
-        versionCode = "00002"
-        version   = "0.0.2">
+        versionCode = "3"
+        version   = "0.3">
     <name>Эффективный руководитель</name>
 
     <description>
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>0.0.2</string>
+        <string>0.3</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
