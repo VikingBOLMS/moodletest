@@ -2,8 +2,8 @@
     "app_id" : "com.autodor.ibimobile",
     "appname": "Эффективный руководитель",
     "desktopappname": "Эффективный руководитель",
-    "versioncode" : "4",
-    "versionname" : "0.4",
+    "versioncode" : "5",
+    "versionname" : "0.5",
     "cache_expiration_time" : 300000,
     "default_lang" : "ru",
     "languages": {
@@ -14,6 +14,5 @@
     "wsextservice" : "local_mobile",
     "demo_sites": {},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
     "siteurl": "http://ibi.mba/"
 }
