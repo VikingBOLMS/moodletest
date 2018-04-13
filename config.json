@@ -4,7 +4,7 @@
     "desktopappname": "Эффективный руководитель",
     "versioncode" : "0001",
     "versionname" : "0.0.1",
-    "cache_expiration_time" : 300000,
+    "cache_expiration_time" : 1,
     "default_lang" : "ru",
     "languages": {
         "en": "English",
