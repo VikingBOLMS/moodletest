@@ -10,6 +10,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "http://ibi.mba/",
+    "siteurl": "https://nc4.d4.lms-service.ru",
     "gcmpn": "694767596569"
 }
