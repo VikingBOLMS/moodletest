@@ -10,6 +10,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "http://ibi.mba/",
+    "siteurl": "https://learn.moodle.net/",
     "gcmpn": "694767596569"
 }
